@@ -2,7 +2,7 @@
 Software Requirements Specification (SRS) Report
 
 # Software Requirements Specification (SRS) Repository
-This is the Software Requirements Specification report that I made for my Software Engineering coursework on the product - 2mg-online-pharmacy. 
+This is the Software Requirements Specification report that I made for my Software Engineering coursework on the product - Bajaj Airlines. 
 
 ## Overview
 
